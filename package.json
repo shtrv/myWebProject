@@ -1,0 +1,20 @@
+{
+  "name": "mywebproject",
+  "version": "1.0.0",
+  "description": "Это мой первый JS проект",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shtrv/myWebProject.git"
+  },
+  "author": "shtrv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shtrv/myWebProject/issues"
+  },
+  "homepage": "https://github.com/shtrv/myWebProject#readme"
+}
