@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/shtrv/myWebProject/issues"
   },
-  "homepage": "https://github.com/shtrv/myWebProject#readme"
+  "homepage": "https://github.com/shtrv/myWebProject#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
